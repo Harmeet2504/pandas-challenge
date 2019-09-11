@@ -1,38 +1,22 @@
 # pandas-challenge
-This challenge is about analyzing city's school records to make strategic decisions regarding future school budgets and priorities.
-The report should includes the following:
+This challenge is about analyzing city's school records to make strategic decisions regarding future school budgets and priorities.The following analyses are conducted:
+  ### District Summary
+  ### School Summary
+  ### Top Performing Schools (By Passing Rate)
+  ### Bottom Performing Schools (By Passing Rate)
+  ### Math Scores by Grade\*\*
+  ### Reading Scores by Grade
+  ### Scores by School Spending
+  ### Scores by School Size
+  ### Scores by School Type
+ 
 
-### District Summary
+# Observations based on analysis:
+1. The obvious trend based on analysis is that Charter schools outperformed District schools with an overall passing rate of Charter school being greater than 20% in comparison to district schools. This is also evident in the statistics of top and bottom performing schools by passing rate. 
+2. Schools with low budget per student fared well in comparison to ones with higher budget implying an inverse correlation between budget and school performance. 
+3. Small and medium sized schools yielded better results than larger ones.
+4. In general across the dataset, students performed better in reading compared to maths irrespective of the grade.
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:Total Schools, Total Students, Total Budget, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, Overall Passing Rate (Average of the above two)
 
-### School Summary
 
-*  Summary of key metrics about each school, including:School Name, School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
-
-### Bottom Performing Schools (By Passing Rate)
-
-### Math Scores by Grade\*\*
-
-* A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-### Reading Scores by Grade
-
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-### Scores by School Spending
-
-* A table that breaks down school performances based on average Spending Ranges (Per Student). Using 4 reasonable bins to group school spending. Include in the table each of the following:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
-
-### Scores by School Size
- (Small, Medium, Large).
-
-### Scores by School Type
- (Charter vs. District).
