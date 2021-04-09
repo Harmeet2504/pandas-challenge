@@ -1,6 +1,6 @@
 # pandas-challenge
 This challenge is about analyzing city's school records to make strategic decisions regarding future school budgets and priorities.The following analyses are conducted:
-  ### District Summary, School Summary, Top Performing Schools (By Passing Rate), Bottom Performing Schools (By Passing Rate),Math Scores by Grade, Reading Scores by Grade, Scores by School Spending, Scores by School Size, Scores by School Type
+  **District Summary, School Summary, Top Performing Schools (By Passing Rate), Bottom Performing Schools (By Passing Rate),Math Scores by Grade, Reading Scores by Grade, Scores by School Spending, Scores by School Size, Scores by School Type**
 
 
 # Observations based on analysis:
